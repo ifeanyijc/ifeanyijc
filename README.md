@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I am Michael</h1>
-<h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
+<h1 align="center">Hi there 👋, I am ifeanyijc</h1>
+<h3 align="center">A passionate Cloud DevOps Engineer. </h3>
 
 Proactive, motivated, and dedicated professional transitioning from Biological Science into Cloud Industry as a DevOps Engineer.
 
