@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I am ifeanyi</h1>
 <h3 align="center">A passionate Cloud DevOps Engineer. </h3>
 
-Proactive, motivated, and dedicated professional transitioning from Biological Science into Cloud Industry as a DevOps Engineer.
-
 I have experience in Configuration Management tools like Ansible and I am passionate about CI/CD 
 Build tools like Jenkins. I aspire to get to the pinnacle of Cloud Computing and am eager to 
 contribute to the team's success through attentiveness and excellent organizational skills.
