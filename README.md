@@ -8,27 +8,17 @@ Build tools like Jenkins. I aspire to get to the pinnacle of Cloud Computing and
 contribute to the team's success through attentiveness and excellent organizational skills.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
-<!-- https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g -->
-<!-- <img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Mini-Project/images/giphy.gif"> -->
-
 - 🔭 I’m currently working on Deploying a Laravel Real World Web Application 
 - 🌱 I’m currently learning Containerization with Docker 
 - 👯 I’m looking to collaborate on CI/CD 
 - 🤔 I’m looking for help with Database Setup and Configuration 
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
-- 📫 How to reach me: michaelagbia1990@gmail.com 
+- 📫 How to reach me: ifeanyijc@gmail.com 
 - 😄 Pronouns: Him/he 
-- ⚡ Fun fact: I am a Student of Altschool Africa and ALX
 - ⚡ Fun fact: I am also currently enrolled in the ALX-T Udacity Cloud DevOps Nanodegree Program
 
 <hr>
 <br>
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiempire/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348089440108)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/michaelagbiaow2)
-
 
 <hr>
 <br>
@@ -57,7 +47,7 @@ Name | Badges
 
 ### Trophys
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=michaelagbiaowei)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyijc)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
@@ -73,27 +63,8 @@ Name | Badges
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/michaelagbiaowei/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=michaelagbiaowei">
+<a href="https://github.com/ifeanyijc/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ifeanyijc">
 </a>
-<a href="https://github.com/michaelagbiaowei?tab=followers"><img src="https://img.shields.io/github/followers/michaelagbiaowei?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
+<a href="https://github.com/ifeanyijc?tab=followers"><img src="https://img.shields.io/github/followers/ifeanyijc?label=Followers&style=social" alt="GitHub Badge"></a>
  <br>
-
-
- <!--## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelagbiaowei&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelagbiaowei&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Michael github stats" /></p>--!>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelagbiaowei&theme=dark" alt="michaelagbiaowei" /></p>
-<br/>
-
-
-> <a href="https://github.com/michaelagbiaowei/github-readme-activity-graph"><img alt="Michael' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michaelagbiaowei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
- 
-<!--
-**michaelagbiaowei/michaelagbiaowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
