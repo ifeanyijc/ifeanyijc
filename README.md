@@ -6,7 +6,7 @@ Build tools like Jenkins. I aspire to get to the pinnacle of Cloud Computing and
 contribute to the team's success through attentiveness and excellent organizational skills.
 <img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on Deploying a Laravel Real World Web Application 
+- 🔭 I’m currently working on Operationizing a Machine Learning API Using Kubernetes 
 - 🌱 I’m currently learning Containerization with Docker 
 - 👯 I’m looking to collaborate on CI/CD 
 - 🤔 I’m looking for help with Database Setup and Configuration 
