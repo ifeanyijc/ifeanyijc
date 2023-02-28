@@ -12,8 +12,7 @@ contribute to the team's success through attentiveness and excellent organizatio
 - 🤔 I’m looking for help with Database Setup and Configuration 
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
 - 📫 How to reach me: ifeanyijc@gmail.com 
-- 😄 Pronouns: Him/he 
-- ⚡ Fun fact: I am also currently enrolled in the ALX-T Udacity Cloud DevOps Nanodegree Program
+
 
 <hr>
 <br>
